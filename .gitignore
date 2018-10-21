@@ -107,3 +107,12 @@ venv.bak/
 
 data*
 !data/.keep
+
+checkpoints*
+!checkpoints/.keep
+
+images*
+!images/.keep
+
+stats*
+!stats/.keep
